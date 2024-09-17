@@ -2,7 +2,7 @@
 # Heart Disease Prediction 
 
 ## Overview
-The **Heart Disease Prediction ** uses machine learning techniques to predict the likelihood of heart disease in a patient based on clinical and diagnostic data. The app can be used by healthcare professionals to quickly analyze a patient’s risk of heart disease, enabling early intervention and treatment.
+The **Heart Disease Prediction ** uses machine learning techniques to predict the likelihood of heart disease in a patient based on the data. This uses linear and logistic regression.
 
 The prediction is based on a dataset of heart disease records (e.g., UCI Heart Disease dataset) and leverages a machine learning model trained using features like age, cholesterol level, blood pressure, and more.
 
